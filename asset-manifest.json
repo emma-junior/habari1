@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/habari1/static/css/main.e1d81745.chunk.css",
+    "main.js": "/habari1/static/js/main.709b6623.chunk.js",
+    "main.js.map": "/habari1/static/js/main.709b6623.chunk.js.map",
+    "runtime-main.js": "/habari1/static/js/runtime-main.b9e8259b.js",
+    "runtime-main.js.map": "/habari1/static/js/runtime-main.b9e8259b.js.map",
+    "static/js/2.e73de867.chunk.js": "/habari1/static/js/2.e73de867.chunk.js",
+    "static/js/2.e73de867.chunk.js.map": "/habari1/static/js/2.e73de867.chunk.js.map",
+    "index.html": "/habari1/index.html",
+    "static/css/main.e1d81745.chunk.css.map": "/habari1/static/css/main.e1d81745.chunk.css.map",
+    "static/js/2.e73de867.chunk.js.LICENSE.txt": "/habari1/static/js/2.e73de867.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9e8259b.js",
+    "static/js/2.e73de867.chunk.js",
+    "static/css/main.e1d81745.chunk.css",
+    "static/js/main.709b6623.chunk.js"
+  ]
+}
